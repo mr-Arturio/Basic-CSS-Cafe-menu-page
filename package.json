@@ -1,0 +1,19 @@
+{
+  "name": "basic-css-cafe-menu-page",
+  "version": "1.0.0",
+  "description": " CSS design of a menu page for a cafe webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-Arturio/Basic-CSS-Cafe-menu-page.git"
+  },
+  "author": "Artur T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-Arturio/Basic-CSS-Cafe-menu-page/issues"
+  },
+  "homepage": "https://github.com/mr-Arturio/Basic-CSS-Cafe-menu-page#readme"
+}
